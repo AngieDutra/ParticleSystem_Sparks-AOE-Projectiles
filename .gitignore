@@ -25,6 +25,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -71,3 +72,17 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Course Assets
+/[Aa]ssets/GabrielAguiarProductions
+/[Aa]ssets/GabrielAguiarProductions.meta
+
+# Ignore .DS_Store files
+**/.DS_Store
+
+# Ignore NugetForUnity files and libraries pulled by it
+/[Aa]ssets/Packages/
+/[Aa]ssets/Packages.meta
+/[Pp]ackages/*
+/[Pp]ackages/manifest.json
+/[Pp]ackages/packages-lock.json
