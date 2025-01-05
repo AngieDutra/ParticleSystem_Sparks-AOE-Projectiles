@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MA_Crack
+  m_Name: MA_CylinderFire
   m_Shader: {fileID: -6465566751694194690, guid: e0d3e24ee321b49beb7325f0fbf475f1, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
-        m_Texture: {fileID: 2800000, guid: c8ac3737518f646aa8d0bdf17382ca0b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3daafa8ced1844134931afb84e563bf0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -84,7 +84,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 23.96863, g: 23.96863, b: 23.96863, a: 1}
+    - _Color: {r: 16, g: 16, b: 16, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &3038408967491115949
