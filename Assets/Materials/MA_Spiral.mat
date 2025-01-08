@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MA_Leaf
+  m_Name: MA_Spiral
   m_Shader: {fileID: -6465566751694194690, guid: e0d3e24ee321b49beb7325f0fbf475f1, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
-        m_Texture: {fileID: 2800000, guid: 223f2bceabfab444a81a0c6f1ec097c5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 33ba7fe17fcc9455ab74a79801eeaf78, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -84,7 +84,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 191.74902, g: 191.74902, b: 191.74902, a: 1}
+    - _Color: {r: 23.968628, g: 23.968628, b: 23.968628, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &1513277476064772753
