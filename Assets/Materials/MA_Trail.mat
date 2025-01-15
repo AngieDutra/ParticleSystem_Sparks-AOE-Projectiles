@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MA_Projectile
+  m_Name: MA_Trail
   m_Shader: {fileID: -6465566751694194690, guid: e0d3e24ee321b49beb7325f0fbf475f1, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
-        m_Texture: {fileID: 2800000, guid: 02bb7d18f59dd41e4ba3ba2af34dd8ab, type: 3}
+        m_Texture: {fileID: 2800000, guid: 21040a7351a524e58ae56c91d7dbcbaa, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
