@@ -1,4 +1,4 @@
-# Vfx_UdemyCourse
+# VFX with Particle Systems
 
 ## Sparks
 
