@@ -1,4 +1,4 @@
-# VFX with Particle Systems
+# VFX with Particle System
 
 ## Sparks
 
